@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../duan1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "duan_1"
+	}
+}
